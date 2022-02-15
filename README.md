@@ -1,7 +1,7 @@
 
 
 <div id='header' align='center'>
-  <img src='https://media.giphy.com/media/Pd3tm3xUkQx3Q4Ez4C/giphy.gif' width='300'/>
+  <img src='https://media.giphy.com/media/3o7TKLC8zBUd7eEteE/giphy.gif' width='300'/>
 </div>
 
 <h2>Hi there 👋, I'm Martin Urban.</h2> 
