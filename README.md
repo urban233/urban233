@@ -20,7 +20,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' title='Python' width='40' height='40'/>
   </a>
   <a href='https://www.wolfram.com/mathematica/'>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Antu_mathematica.svg/768px-Antu_mathematica.svg.png' title='HTML' width='40' height='40'/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Antu_mathematica.svg/768px-Antu_mathematica.svg.png' title='Wolfram Mathematica' width='40' height='40'/>
   </a>
   <a href='https://html.spec.whatwg.org/'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' title='HTML' width='40' height='40'/>
