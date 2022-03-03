@@ -28,6 +28,9 @@
   <a href='https://www.w3.org/Style/CSS/Overview.en.html'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' title='CSS' width='40' height='40'/>
   </a>
+  <a href="https://www.markdownguide.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" width="40" height="40"/>
+  </a>
 </div>
 
 ### Linux
