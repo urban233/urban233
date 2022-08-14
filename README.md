@@ -9,12 +9,14 @@
 ---
 ## About Me
 - 👨‍🔬️ Student: Currently, I am studying molecular biology at the University of Applied Science in Recklinghausen, Germany.
-- <img src='https://avatars.githubusercontent.com/u/81388165?v=4' width='15' height='15'/> I’m currently working on modeling proteins with the [AlphaFold-System](https://github.com/deepmind/alphafold) by DeepMind.
+- <img src='https://avatars.githubusercontent.com/u/81388165?v=4' width='15' height='15'/> I’m currently working on programming a plugin for PyMOL.
 - 📫 How to reach me: martin.urban@studmail.w-hs.de
 
 ---
 ## 🧰 Toolbox
-### Programming Languages
+### Languages
+
+#### Programming
 <div>
   <a href='https://www.python.org/'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' title='Python' width='40' height='40'/>
@@ -22,7 +24,9 @@
   <a href='https://www.wolfram.com/mathematica/'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Antu_mathematica.svg/768px-Antu_mathematica.svg.png' title='Wolfram Mathematica' width='40' height='40'/>
   </a>
-  <a href='https://html.spec.whatwg.org/'>
+
+#### Markup
+<a href='https://html.spec.whatwg.org/'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' title='HTML' width='40' height='40'/>
   </a>
   <a href='https://www.w3.org/Style/CSS/Overview.en.html'>
@@ -33,6 +37,13 @@
   </a>
 </div>
 
+#### Scripting
+<a href='https://www.gnu.org/software/bash/'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg' title='Bash' width='40' height='40'/>
+</a>  
+
+
+### Operating Systems
 ### Linux
 <div>
   <a href='https://fedoraproject.org/wiki/Fedora_Project_Wiki'>
@@ -41,16 +52,11 @@
   <a href='https://ubuntu.com/'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg' title='Ubuntu' width='40' height='40'/>
   </a>
-  <a href='https://garudalinux.org/'>
-    <img src='https://avatars.githubusercontent.com/u/44837339?v=4' title='Garuda' width='40' height='40'/>
-  </a>
-  <a href='https://www.gnu.org/software/bash/'>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg' title='Bash' width='40' height='40'/>
-  </a>  
-  <a href='https://www.vim.org/'>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg' title='VIM' width='40' height='40'/>  
-  </a>    
-</div>
+
+### MacOS
+
+### Windows 
+ 
 
 ### Bio-/Cheminformatics Software
 <div>
