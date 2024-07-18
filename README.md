@@ -1,15 +1,9 @@
-
-
-<div id='header' align='center'>
-  <img src='https://media.giphy.com/media/3o7TKLC8zBUd7eEteE/giphy.gif' width='300'/>
-</div>
-
-<h2>Hi there 👋, I'm Martin Urban.</h2> 
+<h2>Hi there 👋, I'm Martin.</h2> 
     
 ---
 ## About Me
-- 👨‍🔬️ Student: Currently, I am studying molecular biology at the University of Applied Sciences in Recklinghausen, Germany.
-- <img src='https://avatars.githubusercontent.com/u/81388165?v=4' width='15' height='15'/> I’m currently working on programming a plugin for PyMOL.
+- 👨‍💻 Student: Currently, I am studying molecular biology at the Westphalian University of Applied Sciences in Recklinghausen, Germany.
+- 💻 I am one half of the lead developers of [PySSA](https://github.com/urban233/PySSA).
 - 📫 How to reach me: martin.urban@studmail.w-hs.de
 
 <p align="middle">
