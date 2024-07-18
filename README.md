@@ -6,16 +6,6 @@
 - 💻 I am one half of the lead developers of [PySSA](https://github.com/urban233/PySSA).
 - 📫 How to reach me: martin.urban@studmail.w-hs.de
 
-<p align="middle">
-  <a href="http://orcid.org/0009-0008-6834-5714">
-    <img align="center" alt="Martin's ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/urban233">
-    <img align="center" alt="Martin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-</p>
-
 ---
 ## 🧰 Toolbox
 <p align="center">
