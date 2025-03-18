@@ -9,7 +9,6 @@
 ---
 ## <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="pymol" width="24" height="24" align="bottom"/> PyMOL related projects
 - Unofficial PyMOL Windows Python Wheels - https://github.com/urban233/pymol-open-source-windows-build
-- Unofficial PyMOL GNU Linux Python Wheels - https://github.com/urban233/pymol-open-source-linux-build
 - Unofficial PyMOL macOS Python Wheels - https://github.com/urban233/pymol-open-source-macos-build
 
 ---
