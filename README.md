@@ -8,11 +8,27 @@
 
 ---
 ## <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="pymol" width="24" height="24" align="bottom"/> PyMOL related projects
+[![](https://img.shields.io/badge/PyPI-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org/project/pymol-open-source-whl/)
 - Unofficial PyMOL Python Wheels - https://github.com/urban233/pymol-open-source-whl
 - Unofficial PyMOL Setup - https://github.com/kullik01/pymol-open-source-setup
   
 ---
 ## 🧰 Toolbox
+![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/PyQt-2cde85.svg?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+[![](https://img.shields.io/badge/PyPI-urban233-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org/user/urban233/)
+<br>
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+\>\>
+![](https://img.shields.io/badge/AlmaLinux-000000.svg?style=for-the-badge&logo=AlmaLinux&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+\>
+![](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
+<br>
+![](https://img.shields.io/badge/PyMOL-52ba52?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/ColabFold-d8160a?style=for-the-badge&logo=windows&logoColor=white)
+
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg" alt="pyqt" width="40" height="40"/>
