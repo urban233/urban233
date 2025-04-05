@@ -9,9 +9,19 @@
 ---
 ## <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="pymol" width="24" height="24" align="bottom"/> PyMOL related projects
 [![](https://img.shields.io/badge/PyPI-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org/project/pymol-open-source-whl/)
-- Unofficial PyMOL Python Wheels - https://github.com/urban233/pymol-open-source-whl
-- Unofficial PyMOL Setup - https://github.com/kullik01/pymol-open-source-setup
+[![](https://img.shields.io/badge/Repository-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/urban233/pymol-open-source-whl/)
+<br>
+### Contributing to
+[![](https://img.shields.io/badge/Repository-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup)
+[![](https://img.shields.io/badge/Latest_Release-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup/releases)
   
+## 📌 Other projects
+[![](https://img.shields.io/badge/PyPI-kern--comm--lib-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org/project/kern-comm-lib/)
+[![](https://img.shields.io/badge/Repository-kern--comm--lib-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/urban233/kern-comm-lib/)
+<br>
+[![](https://img.shields.io/badge/PyPI-task--automator-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org/project/task-automator/)
+[![](https://img.shields.io/badge/Repository-task--automator-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/urban233/task-automator)
+
 ---
 ## 🧰 Toolbox
 [![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
