@@ -16,11 +16,10 @@
 [![](https://img.shields.io/badge/Latest_Release-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup/releases)
   
 ## 📌 Other projects
-[![](https://img.shields.io/badge/PyPI-kern--comm--lib-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org/project/kern-comm-lib/)
-[![](https://img.shields.io/badge/Repository-kern--comm--lib-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/urban233/kern-comm-lib/)
-<br>
 [![](https://img.shields.io/badge/PyPI-task--automator-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org/project/task-automator/)
 [![](https://img.shields.io/badge/Repository-task--automator-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/urban233/task-automator)
+<br>
+[![](https://img.shields.io/badge/Repository-kotlin--bazel--example-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/urban233/kotlin-bazel-example)
 
 ---
 ## 🧰 Toolbox
