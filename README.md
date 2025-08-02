@@ -3,7 +3,7 @@
 ---
 ## About Me
 - 👨‍💻 Student: Currently, I am studying molecular biology at the Westphalian University of Applied Sciences in Recklinghausen, Germany.
-- 💻 I am one half of the lead developers of [PySSA](https://github.com/urban233/PySSA).
+- 💻 I am one half of the lead developers of [PySSA](https://urban233.github.io/PySSA/) (published in the [ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c00797)).
 - 📫 How to reach me: martin.urban@studmail.w-hs.de
 
 ---
