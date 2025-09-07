@@ -27,14 +27,19 @@ Besides my main focus on building software for end-users, I am also interested i
   <a href="https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c00797" target="_blank">
     <img src="https://img.shields.io/badge/Publication-ACS_J._Chem._Inf._Model.-003E74.svg?style=for-the-badge" alt="Publication Badge"/>
   </a>
-  &nbsp;
+    
+  <a href="https://urban233.github.io/PySSA/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/PySSA-367af6.svg?style=for-the-badge" alt="PySSA website"/>
+  </a>
+  
   <a href="https://github.com/urban233/PySSA" target="_blank">
     <img src="https://img.shields.io/badge/Repository-GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
   </a>
-  &nbsp;
+  
   <a href="https://pymolwiki.org/index.php/PySSA" target="_blank">
     <img src="https://img.shields.io/badge/PyMOL_Wiki-PySSA-369B36.svg?style=for-the-badge" alt="PyMOL Wiki Badge"/>
   </a>
+  
 </p>
 
 ---
@@ -61,7 +66,7 @@ Besides my main focus on building software for end-users, I am also interested i
 <p>
   <strong>Languages:</strong><br>
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+    <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
 </p>
 
 <p>
