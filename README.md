@@ -1,11 +1,11 @@
 <div align="center">
-    <h2>Hi there 👋, I'm Martin.</h2> 
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=9c0031&text=Hi%20I'm%20Martin&section=header&textBg=false&descAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&desc=Open%20Source%20|%20Software%20Development%20|%20Molecular%20Biology&descAlignY=60" alt="Header"/>
     <!--<b>Graduate Molecular Biology Student | Scientific Software Developer | Structural Bioinformatician</b> -->
 </div>
 
-### About Me
+### 🧬 About Me
 
-I am a Molecular Biology student at the Westphalian University of Applied Sciences with a strong passion for developing computational tools to address scientific challenges.
+I am a Molecular Biology graduate student at the Westphalian University of Applied Sciences with a strong passion for developing computational tools to address scientific challenges.
 
 My primary focus is on applying my software development skills to problems in structural biology and bioinformatics. I am one of the lead developers of **PySSA**, a tool for protein structure prediction and similarity analysis, which has been published in the *ACS Journal of Chemical Information and Modeling*.
 Besides my main focus on building software for end-users, I am also interested in build systems where I'm most comfortable with Gradle, and I have very basic knowledge of Bazel and CMake.
@@ -51,6 +51,9 @@ Besides my main focus on building software for end-users, I am also interested i
 | **pymol-open-source-whl** | Offers unofficial binary wheels for the open-source version of PyMOL(TM).  | [![PyPI](https://img.shields.io/badge/PyPI-Package-3775A9.svg?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/pymol-open-source-whl/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/pymol-open-source-whl)                                                             |
 | **task-automator** | A lightweight Python library for automating repetitive tasks and workflows. | [![PyPI](https://img.shields.io/badge/PyPI-Package-3775A9.svg?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/task-automator/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/task-automator)                                                                     |
 | **kotlin-bazel-example** | A template repository demonstrating a Kotlin project setup with Bazel.   | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/kotlin-bazel-example)                                                                                                                                                                                                                                 |
+| **rdkit-conan-package** | A Conan package for the RDKit library, allowing easy integration of RDKit into C++. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/rdkit-conan-package)
+| **rdkit-kotlin-example-template** | Minimal working example for using RDKit in Kotlin. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/rdkit-kotlin-example-template)
+| **rdkit-java-example-template** | Minimal working example for using RDKit in Java. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/rdkit-java-example-template)
 
 ### ⚡️Contributions
 | Project                     | Description                                                              | Links                                                                                                                                                                                                                                                                                                                                                                                      |
