@@ -61,6 +61,15 @@ Besides my main focus on building software for end-users, I am also interested i
 | **pymol-open-source-setup** | Offers unofficial setups/packages for the open-source version of PyMOL(TM). | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup)|
 | **MORTAR** | A free and open-source graphical desktop application that supports molecular in silico fragmentation and substructure analysis. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/FelixBaensch/MORTAR)|
 
+---
+
+### ⭐ Certificates
+<p>
+  <a href="https://badges.parchment.com/public/assertions/kfzrvZImQDeODIe_o7_H6A?identity__email=martin.urban@studmail.w-hs.de" target="_blank">
+    <img src="https://media.badges.parchment.com/uploads/badges/assertion-kfzrvZImQDeODIe_o7_H6A.png?versionId=sg8ZBd1pkUiuockFuo1pM13Dcc47sSuS" alt="Badge" width="45" align="middle" />
+  Visualizing Science with PyMOL 3
+  </a>
+</p>
 
 ---
 
@@ -95,7 +104,7 @@ Besides my main focus on building software for end-users, I am also interested i
 <p>
   <strong>Platforms:</strong><br>
   <a href="https://www.microsoft.com/windows/" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>
-  <a href="https://www.ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
   <a href="https://almalinux.org/" target="_blank"><img src="https://img.shields.io/badge/AlmaLinux-000000.svg?style=for-the-badge&logo=almalinux&logoColor=white" alt="AlmaLinux"/></a>
-  <a href="https://www.apple.com/macos" target="_blank"><img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/></a>
+    <a href="https://www.ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
 </p>
+
