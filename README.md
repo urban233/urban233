@@ -61,7 +61,7 @@ My primary focus is to create and apply powerful new software that combines inte
 *Build automation*: Gradle, CMake, Bazel.
 *Databases*: Sqlite.
 *Deployment*: Inno Setup 6, Podman.
-*Desktop*: Word, Excel, Powerpoint, Inkscape, Davinci Resolve, Zoom. <br>
+*Desktop*: Word, Excel, Powerpoint, Inkscape, DaVinci Resolve, Zoom. <br>
 - **Operating Systems**: Adept in Windows (including WSL2), Linux (mainly RHEL-based distros) and very limited knowledge of macOS.<br>
 - **IDEs**: IntelliJ (Java/Kotlin), PyCharm (Python), CLion (C/C++).
 - **AI Tools**: JetBrains Junie, Gemini CLI, Google Antigravity
