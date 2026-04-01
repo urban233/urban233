@@ -48,8 +48,15 @@ My primary focus is to create and apply powerful new software that combines inte
 ### ⭐ Certificates
 <p>
   <a href="https://badges.parchment.com/public/assertions/kfzrvZImQDeODIe_o7_H6A?identity__email=martin.urban@studmail.w-hs.de" target="_blank">
-    <img src="https://media.badges.parchment.com/uploads/badges/assertion-kfzrvZImQDeODIe_o7_H6A.png?versionId=sg8ZBd1pkUiuockFuo1pM13Dcc47sSuS" alt="Badge" width="45" align="middle" />
+    <img src="https://media.badges.parchment.com/uploads/badges/assertion-kfzrvZImQDeODIe_o7_H6A.png?versionId=sg8ZBd1pkUiuockFuo1pM13Dcc47sSuS" alt="Badge" width="60" align="middle" />
   Visualizing Science with PyMOL 3
+  </a>
+</p>
+
+<p>
+  <a href="https://courses.schrodinger.com/certificates/ngmvvpdtln" target="_blank">
+    <img src="Introduction_to_molecular_modeling_in_drug_discovery.png" alt="Badge" width="60" align="middle" />
+  Introduction to Molecular Modeling in Drug Discovery
   </a>
 </p>
 
@@ -58,7 +65,7 @@ My primary focus is to create and apply powerful new software that combines inte
 ### 🧰 Toolbox
 - **Programming Languages**: Experienced in Python. Familiar with Kotlin, Java, SQL. Basic knowledge in C, OpenGL, Pascal.<br>
 - **Applications**: 
-*Graphics and Modeling*: PyMOL, Mathematica.
+*Graphics and Modeling*: PyMOL, Mathematica, Maestro.
 *Build automation*: Gradle, CMake, Bazel.
 *Databases*: Sqlite, Microsoft Access.
 *Deployment*: Inno Setup 6, Podman, Conan, GitHub Actions CI/CD.
