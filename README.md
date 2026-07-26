@@ -18,12 +18,24 @@ My open-source projects display a status badge indicating their current maintena
 
 | Badge | Description |
 | :--- | :--- |
-| ![No Maintenance](https://img.shields.io/badge/Development_State-No_Maintenance-red?style=flat-square) | Archived or unmaintained; provided as-is for reference. |
-| ![Active Maintenance](https://img.shields.io/badge/Development_State-Active_Maintenance-orange?style=flat-square) | Stable with ongoing bug fixes, security updates, and maintenance. |
-| ![Active Feature Development](https://img.shields.io/badge/Development_State-Active_Feature_Development-brightgreen?style=flat-square) | Actively receiving new features, updates, and maintenance. |
-| ![Complete](https://img.shields.io/badge/Development_State-Complete-blue?style=flat-square) | At the time of defining the state: Feature-complete and stable, no further updates. |
+| ![No Maintenance](https://img.shields.io/badge/Project_State-No_Maintenance-red?style=flat-square) | Archived or unmaintained; provided as-is for reference. |
+| ![Active Maintenance](https://img.shields.io/badge/Project_State-Active_Maintenance-orange?style=flat-square) | Stable with ongoing bug fixes, security updates, and maintenance. |
+| ![Active Feature Development](https://img.shields.io/badge/Project_State-Active_Feature_Development-brightgreen?style=flat-square) | Actively receiving new features, updates, and maintenance. |
+| ![Complete](https://img.shields.io/badge/Project_State-Complete-blue?style=flat-square) | At the time of defining the state: Feature-complete and stable, no further updates. |
 
 All states are subject to change, espcially a *Complete* can turn into *Active Feature Development* if there is a feature issue that is worth investing in. Also a *No Maintenance* can turn into other states, if they are worth reactivating.
+
+---
+
+### 🚦 AI Use Legend
+My open-source projects include status badges that indicate the use of AI:
+
+| Badge | Description |
+| :--- | :--- |
+| ![AI-automated](https://img.shields.io/badge/AI_Use-AI--automated-red?style=flat-square) | AI writes most of the code in an automated way, with only minior human intervention. |
+| ![AI-driven](https://img.shields.io/badge/AI_Use-AI--driven-orange?style=flat-square) | AI agents are used an guided by a human with 100% of human review, but most of the code is written by the AI. |
+| ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square) | AI assisted in different forms, but with 100% human review, but only a small portion is written by AI. |
+| ![No AI](https://img.shields.io/badge/AI_Use-No_AI-blue?style=flat-square) | 100% AI free. |
 
 ---
 
@@ -36,7 +48,8 @@ All states are subject to change, espcially a *Complete* can turn into *Active F
   <a href="https://urban233.github.io/PySSA/index.html" target="_blank"><img src="https://img.shields.io/badge/Website-PySSA-367af6.svg?style=for-the-badge" alt="PySSA website"/></a>
   <a href="https://github.com/urban233/PySSA" target="_blank"><img src="https://img.shields.io/badge/Repository-GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
   <a href="https://pymolwiki.org/index.php/PySSA" target="_blank"><img src="https://img.shields.io/badge/PyMOL_Wiki-PySSA-369B36.svg?style=for-the-badge" alt="PyMOL Wiki Badge"/></a>
-  <img src="https://img.shields.io/badge/Development_State-Active_feature_development-brightgreen?style=for-the-badge" alt="Development State"/>
+  <img src="https://img.shields.io/badge/Project_State-Active_feature_development-brightgreen?style=for-the-badge" alt="Development State"/>
+  <img src="https://img.shields.io/badge/AI_Use-No_AI-blue?style=for-the-badge" alt="AI Use"/>
 </p>
 
 ---
@@ -45,10 +58,10 @@ All states are subject to change, espcially a *Complete* can turn into *Active F
 
 | Project | Description | Status & Links |
 | :--- | :--- | :--- |
-| **pymol-open-source-whl** | Offers unofficial binary wheels for the open-source version of PyMOL(TM). | ![No Maintenance](https://img.shields.io/badge/Development_State-No_Maintenance-red?style=flat-square) [![PyPI](https://img.shields.io/badge/PyPI-Package-3775A9.svg?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/pymol-open-source-whl/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/pymol-open-source-whl) |
-| **HEATHER** | A native, zero-dependency command-line tool for executing Pascal scripts. | ![Complete](https://img.shields.io/badge/Development_State-Complete-blue?style=flat-square) [![Release](https://img.shields.io/badge/GitHub-Releases-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/HEATHER/releases) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/HEATHER) |
-| **fptunes** | A blazingly fast, cross-platform CLI audio manager written in Free Pascal. | ![No Maintenance](https://img.shields.io/badge/Development_State-No_maintenance-red?style=flat-square) [![Release](https://img.shields.io/badge/GitHub-Releases-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/fptunes/releases/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/fptunes) |
-| **rdkit-conan-package** | A Conan package for the RDKit library, allowing easy integration of RDKit into C++. | ![No Maintenance](https://img.shields.io/badge/Development_State-No_Maintenance-red?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/rdkit-conan-package) |
+| **pymol-open-source-whl** | Offers unofficial binary wheels for the open-source version of PyMOL(TM). | ![No Maintenance](https://img.shields.io/badge/Project_State-No_Maintenance-red?style=flat-square) [![PyPI](https://img.shields.io/badge/PyPI-Package-3775A9.svg?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/pymol-open-source-whl/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/pymol-open-source-whl) ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square)|
+| **HEATHER** | A native, zero-dependency command-line tool for executing Pascal scripts. | ![Complete](https://img.shields.io/badge/Project_State-Complete-blue?style=flat-square) [![Release](https://img.shields.io/badge/GitHub-Releases-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/HEATHER/releases) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/HEATHER) ![AI-driven](https://img.shields.io/badge/AI_Use-AI--driven-orange?style=flat-square)|
+| **fptunes** | A blazingly fast, cross-platform CLI audio manager written in Free Pascal. | ![No Maintenance](https://img.shields.io/badge/Project_State-No_maintenance-red?style=flat-square) [![Release](https://img.shields.io/badge/GitHub-Releases-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/fptunes/releases/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/fptunes) ![AI-driven](https://img.shields.io/badge/AI_Use-AI--driven-orange?style=flat-square)|
+| **rdkit-conan-package** | A Conan package for the RDKit library, allowing easy integration of RDKit into C++. | ![No Maintenance](https://img.shields.io/badge/Project_State-No_Maintenance-red?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/rdkit-conan-package) ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square)|
 
 ---
 
@@ -65,10 +78,10 @@ All states are subject to change, espcially a *Complete* can turn into *Active F
 
 | Project | Description | Status & Links |
 | :--- | :--- | :--- |
-| **python-c-extension-template** | Template repository for building Python C Extensions with C++23 and nanobind. | ![Complete](https://img.shields.io/badge/Development_State-Complete-blue?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/python-c-extension-template) |
-| **rdkit-kotlin-example-template** | Minimal working example for using RDKit in Kotlin. | ![Complete](https://img.shields.io/badge/Development_State-Complete-blue?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/rdkit-kotlin-example-template) |
-| **rdkit-java-example-template** | Minimal working example for using RDKit in Java. | ![Complete](https://img.shields.io/badge/Development_State-Complete-blue?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/rdkit-java-example-template) |
-| **kotlin-bazel-example** | A template repository demonstrating a Kotlin project setup with Bazel. | ![Complete](https://img.shields.io/badge/Development_State-Complete-blue?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/kotlin-bazel-example) |
+| **python-c-extension-template** | Template repository for building Python C Extensions with C++23 and nanobind. | ![Complete](https://img.shields.io/badge/Project_State-Complete-blue?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/python-c-extension-template) ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square)|
+| **rdkit-kotlin-example-template** | Minimal working example for using RDKit in Kotlin. | ![Complete](https://img.shields.io/badge/Project_State-Complete-blue?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/rdkit-kotlin-example-template) ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square)|
+| **rdkit-java-example-template** | Minimal working example for using RDKit in Java. | ![Complete](https://img.shields.io/badge/Project_State-Complete-blue?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/rdkit-java-example-template) ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square)|
+| **kotlin-bazel-example** | A template repository demonstrating a Kotlin project setup with Bazel. | ![Complete](https://img.shields.io/badge/Project_State-Complete-blue?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/kotlin-bazel-example) ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square)|
 
 ---
 
@@ -101,4 +114,4 @@ All states are subject to change, espcially a *Complete* can turn into *Active F
   - *Desktop*: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Inkscape, DaVinci Resolve, Zoom.<br>
 - **Operating Systems**: Adept in Windows (including WSL2), Linux (mainly RHEL-based distros) and very limited knowledge of macOS.<br>
 - **IDEs**: IntelliJ (Java/Kotlin), PyCharm (Python), CLion (C/C++).
-- **AI Tools**: JetBrains Junie, Gemini CLI, Google Antigravity
+- **AI Tools**: JetBrains Junie, Gemini CLI, Google Antigravity 2.0, Google Antigravity CLI, OpenCode
