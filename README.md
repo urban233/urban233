@@ -33,7 +33,7 @@ My open-source projects include status badges that indicate the use of AI:
 | Badge | Description |
 | :--- | :--- |
 | ![AI-automated](https://img.shields.io/badge/AI_Use-AI--automated-red?style=flat-square) | AI writes most of the code in an automated way, with only minior human intervention. |
-| ![AI-driven](https://img.shields.io/badge/AI_Use-AI--driven-orange?style=flat-square) | AI agents are used an guided by a human with 100% of human review, but most of the code is written by the AI. |
+| ![AI-driven](https://img.shields.io/badge/AI_Use-AI--driven-orange?style=flat-square) | AI agents are used and guided by a human with 100% of human review, but most of the code is written by the AI. |
 | ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square) | AI assisted in different forms, but with 100% human review, but only a small portion is written by AI. |
 | ![No AI](https://img.shields.io/badge/AI_Use-No_AI-blue?style=flat-square) | 100% AI free. |
 
@@ -59,11 +59,12 @@ My open-source projects include status badges that indicate the use of AI:
 | Project | Description | Status & Links |
 | :--- | :--- | :--- |
 | **pymol-open-source-whl** | Offers unofficial binary wheels for the open-source version of PyMOL(TM). | ![Active Feature Development](https://img.shields.io/badge/Project_State-Active_Feature_Development-brightgreen?style=flat-square) [![PyPI](https://img.shields.io/badge/PyPI-Package-3775A9.svg?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/pymol-open-source-whl/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/pymol-open-source-whl) ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square)|
-| **pymake** | A zero-dependency, Python-based task runner. | ![Active Maintenance](https://img.shields.io/badge/Project_State-Active_Maintenance-orange?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/pymake) ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square)|
+| **rdkit-conan-package** | A Conan package for the RDKit library, allowing easy integration of RDKit into C++. | ![Active Maintenance](https://img.shields.io/badge/Project_State-Active_Maintenance-orange?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/rdkit-conan-package) ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square)|
+| **Canon** | An agentic-development Claude Code plugin, that keeps work on track without a stored state machine. | ![Active Feature Development](https://img.shields.io/badge/Project_State-Active_Feature_Development-brightgreen?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/Canon) ![AI-driven](https://img.shields.io/badge/AI_Use-AI--driven-orange?style=flat-square)|
+| **pymake** | A zero-dependency, Python-based task runner. | ![Complete](https://img.shields.io/badge/Project_State-Complete-blue?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/pymake) ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square)|
 | **HEATHER** | A native, zero-dependency command-line tool for executing Pascal scripts. | ![Complete](https://img.shields.io/badge/Project_State-Complete-blue?style=flat-square) [![Release](https://img.shields.io/badge/GitHub-Releases-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/HEATHER/releases) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/HEATHER) ![AI-driven](https://img.shields.io/badge/AI_Use-AI--driven-orange?style=flat-square)|
 | **CoDev** | CoDev installs a human-guided AI software engineering workflow into any repository, with no runtime dependency on the projects it supports. | ![No Maintenance](https://img.shields.io/badge/Project_State-No_Maintenance-red?style=flat-square) [![PyPI](https://img.shields.io/badge/PyPI-Package-3775A9.svg?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/open-codev-workflow/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/CoDev) ![AI-driven](https://img.shields.io/badge/AI_Use-AI--driven-orange?style=flat-square)|
 | **fptunes** | A blazingly fast, cross-platform CLI audio manager written in Free Pascal. | ![No Maintenance](https://img.shields.io/badge/Project_State-No_maintenance-red?style=flat-square) [![Release](https://img.shields.io/badge/GitHub-Releases-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/fptunes/releases/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/fptunes) ![AI-driven](https://img.shields.io/badge/AI_Use-AI--driven-orange?style=flat-square)|
-| **rdkit-conan-package** | A Conan package for the RDKit library, allowing easy integration of RDKit into C++. | ![No Maintenance](https://img.shields.io/badge/Project_State-No_Maintenance-red?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/rdkit-conan-package) ![AI-assisted](https://img.shields.io/badge/AI_Use-AI--assisted-brightgreen?style=flat-square)|
 | **ntn-ingest** | A local, single-binary Go application that imports a manually downloaded Notion Markdown-and-CSV ZIP export into a protected local mirror. | ![No Maintenance](https://img.shields.io/badge/Project_State-No_Maintenance-red?style=flat-square) [![Release](https://img.shields.io/badge/GitHub-Releases-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/ntn-ingest/releases/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/urban233/ntn-ingest) ![AI-automated](https://img.shields.io/badge/AI_Use-AI--automated-red?style=flat-square)|
 
 ---
@@ -111,11 +112,11 @@ My open-source projects include status badges that indicate the use of AI:
 
 - **Programming Languages**: Experienced in Python. Familiar with Kotlin, Java, SQL. Basic knowledge in C, OpenGL, Pascal.<br>
 - **Applications**: 
-  - *Graphics and Modeling*: PyMOL, Mathematica, Maestro.
+  - *Graphics and Modeling*: PyMOL, Mathematica, Schrödinger Maestro.
   - *Build automation*: Gradle, CMake, Bazel.
   - *Databases*: Sqlite, Microsoft Access.
   - *Deployment*: Inno Setup 6, Podman, Conan, GitHub Actions CI/CD.
   - *Desktop*: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Inkscape, DaVinci Resolve, Zoom.<br>
 - **Operating Systems**: Adept in Windows (including WSL2), Linux (mainly RHEL-based distros) and very limited knowledge of macOS.<br>
-- **IDEs**: IntelliJ (Java/Kotlin), PyCharm (Python), CLion (C/C++).
-- **AI Tools**: JetBrains Junie, Gemini CLI, Google Antigravity 2.0, Google Antigravity CLI, OpenCode
+- **IDEs**: IntelliJ (Java/Kotlin), PyCharm (Python), CLion (C/C++), VS Code
+- **AI Tools**: Claude Code, JetBrains Junie, Gemini CLI, Google Antigravity 2.0, Google Antigravity CLI, OpenCode
